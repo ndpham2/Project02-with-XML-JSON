@@ -1,0 +1,161 @@
+<assets>
+<DepositAccount>
+  <code>AGTSAV</code>
+  <label>Savings Account</label>
+  <apr>0.25</apr>
+</DepositAccount>
+<DepositAccount>
+  <code>BX001-23</code>
+  <label>Money Market Savings</label>
+  <apr>1.05</apr>
+</DepositAccount>
+<DepositAccount>
+  <code>CD99312</code>
+  <label>5-year CD</label>
+  <apr>4.35</apr>
+</DepositAccount>
+<DepositAccount>
+  <code>SAVE01</code>
+  <label>Online Savings A+</label>
+  <apr>1.9</apr>
+</DepositAccount>
+<DepositAccount>
+  <code>CD1Y3X</code>
+  <label>1-year Rollover CD</label>
+  <apr>2.75</apr>
+</DepositAccount>
+<DepositAccount>
+  <code>RIRA01</code>
+  <label>Roth IRA</label>
+  <apr>3.4</apr>
+</DepositAccount>
+<StockAccount>
+  <code>GOOG001</code>
+  <label>Google Inc.</label>
+  <quarterlyDividend>0.0</quarterlyDividend>
+  <baseRateOfReturn>5.6</baseRateOfReturn>
+  <betaMeasure>1.15</betaMeasure>
+  <stockSymbol>GOOG</stockSymbol>
+  <sharePrice>814.708</sharePrice>
+</StockAccount>
+<StockAccount>
+  <code>DIAGEO12</code>
+  <label>Diageo PLC</label>
+  <quarterlyDividend>12.0</quarterlyDividend>
+  <baseRateOfReturn>3.2</baseRateOfReturn>
+  <betaMeasure>1.04</betaMeasure>
+  <stockSymbol>DEO</stockSymbol>
+  <sharePrice>122.75</sharePrice>
+</StockAccount>
+<StockAccount>
+  <code>123APP</code>
+  <label>Apple</label>
+  <quarterlyDividend>24.5</quarterlyDividend>
+  <baseRateOfReturn>4.3</baseRateOfReturn>
+  <betaMeasure>1.25</betaMeasure>
+  <stockSymbol>AAPL</stockSymbol>
+  <sharePrice>429.8</sharePrice>
+</StockAccount>
+<StockAccount>
+  <code>321CC</code>
+  <label>Coca-Cola</label>
+  <quarterlyDividend>5.45</quarterlyDividend>
+  <baseRateOfReturn>3.1</baseRateOfReturn>
+  <betaMeasure>0.68</betaMeasure>
+  <stockSymbol>KO</stockSymbol>
+  <sharePrice>41.08</sharePrice>
+</StockAccount>
+<StockAccount>
+  <code>No1BURR</code>
+  <label>Chipotle Mexican Grill</label>
+  <quarterlyDividend>45.57</quarterlyDividend>
+  <baseRateOfReturn>3.19</baseRateOfReturn>
+  <betaMeasure>0.94</betaMeasure>
+  <stockSymbol>CMG</stockSymbol>
+  <sharePrice>341.91</sharePrice>
+</StockAccount>
+<StockAccount>
+  <code>B0oWM</code>
+  <label>Costco</label>
+  <quarterlyDividend>10.0</quarterlyDividend>
+  <baseRateOfReturn>2.25</baseRateOfReturn>
+  <betaMeasure>0.82</betaMeasure>
+  <stockSymbol>COST</stockSymbol>
+  <sharePrice>106.13</sharePrice>
+</StockAccount>
+<StockAccount>
+  <code>N0TPIX</code>
+  <label>3D Systems</label>
+  <quarterlyDividend>0.0</quarterlyDividend>
+  <baseRateOfReturn>1.25</baseRateOfReturn>
+  <betaMeasure>1.28</betaMeasure>
+  <stockSymbol>DDD</stockSymbol>
+  <sharePrice>35.4</sharePrice>
+</StockAccount>
+<StockAccount>
+  <code>wOOWoo1S</code>
+  <label>Canadian National Railway</label>
+  <quarterlyDividend>2.75</quarterlyDividend>
+  <baseRateOfReturn>4.6</baseRateOfReturn>
+  <betaMeasure>0.79</betaMeasure>
+  <stockSymbol>CNI</stockSymbol>
+  <sharePrice>97.75</sharePrice>
+</StockAccount>
+<StockAccount>
+  <code>BERK-B</code>
+  <label>Berkshire Hathaway</label>
+  <quarterlyDividend>0.0</quarterlyDividend>
+  <baseRateOfReturn>7.2</baseRateOfReturn>
+  <betaMeasure>0.29</betaMeasure>
+  <stockSymbol>BRK-B</stockSymbol>
+  <sharePrice>107.04</sharePrice>
+</StockAccount>
+<PrivateInvestmentAccount>
+  <code>RENT445</code>
+  <label>Rental Property</label>
+  <quarterlyDividend>2400.0</quarterlyDividend>
+  <baseRateOfReturn>0.25</baseRateOfReturn>
+  <omegaMeasure>0.15</omegaMeasure>
+  <totalValue>120000.0</totalValue>
+</PrivateInvestmentAccount>
+<PrivateInvestmentAccount>
+  <code>CMPROP0121</code>
+  <label>Commercial Property-Red Oaks Mall</label>
+  <quarterlyDividend>14240.0</quarterlyDividend>
+  <baseRateOfReturn>5.35</baseRateOfReturn>
+  <omegaMeasure>0.25</omegaMeasure>
+  <totalValue>1.0456E7</totalValue>
+</PrivateInvestmentAccount>
+<PrivateInvestmentAccount>
+  <code>FOOD12</code>
+  <label>Cluckin&apos;s restaurant chain</label>
+  <quarterlyDividend>35000.0</quarterlyDividend>
+  <baseRateOfReturn>3.0</baseRateOfReturn>
+  <omegaMeasure>0.32</omegaMeasure>
+  <totalValue>1212500.0</totalValue>
+</PrivateInvestmentAccount>
+<PrivateInvestmentAccount>
+  <code>REALStr12</code>
+  <label>Fred&apos;s Fabulous Hardware Store</label>
+  <quarterlyDividend>1232.0</quarterlyDividend>
+  <baseRateOfReturn>1.23</baseRateOfReturn>
+  <omegaMeasure>0.13</omegaMeasure>
+  <totalValue>54300.0</totalValue>
+</PrivateInvestmentAccount>
+<PrivateInvestmentAccount>
+  <code>IND321</code>
+  <label>Industrial Widget Manufacturers Inc.</label>
+  <quarterlyDividend>10500.0</quarterlyDividend>
+  <baseRateOfReturn>2.0</baseRateOfReturn>
+  <omegaMeasure>-0.15</omegaMeasure>
+  <totalValue>4213333.0</totalValue>
+</PrivateInvestmentAccount>
+<PrivateInvestmentAccount>
+  <code>RSTOR322</code>
+  <label>7&quot; Vinyl Records</label>
+  <quarterlyDividend>2453.21</quarterlyDividend>
+  <baseRateOfReturn>2.1</baseRateOfReturn>
+  <omegaMeasure>0.54</omegaMeasure>
+  <totalValue>13500.0</totalValue>
+</PrivateInvestmentAccount>
+</assets>

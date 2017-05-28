@@ -1,0 +1,159 @@
+{"DepositAccount": {
+  "code": "AGTSAV",
+  "label": "Savings Account",
+  "apr": 0.25
+}}
+{"DepositAccount": {
+  "code": "BX001-23",
+  "label": "Money Market Savings",
+  "apr": 1.05
+}}
+{"DepositAccount": {
+  "code": "CD99312",
+  "label": "5-year CD",
+  "apr": 4.35
+}}
+{"DepositAccount": {
+  "code": "SAVE01",
+  "label": "Online Savings A+",
+  "apr": 1.9
+}}
+{"DepositAccount": {
+  "code": "CD1Y3X",
+  "label": "1-year Rollover CD",
+  "apr": 2.75
+}}
+{"DepositAccount": {
+  "code": "RIRA01",
+  "label": "Roth IRA",
+  "apr": 3.4
+}}
+{"StockAccount": {
+  "code": "GOOG001",
+  "label": "Google Inc.",
+  "quarterlyDividend": 0.0,
+  "baseRateOfReturn": 5.6,
+  "betaMeasure": 1.15,
+  "stockSymbol": "GOOG",
+  "sharePrice": 814.708
+}}
+{"StockAccount": {
+  "code": "DIAGEO12",
+  "label": "Diageo PLC",
+  "quarterlyDividend": 12.0,
+  "baseRateOfReturn": 3.2,
+  "betaMeasure": 1.04,
+  "stockSymbol": "DEO",
+  "sharePrice": 122.75
+}}
+{"StockAccount": {
+  "code": "123APP",
+  "label": "Apple",
+  "quarterlyDividend": 24.5,
+  "baseRateOfReturn": 4.3,
+  "betaMeasure": 1.25,
+  "stockSymbol": "AAPL",
+  "sharePrice": 429.8
+}}
+{"StockAccount": {
+  "code": "321CC",
+  "label": "Coca-Cola",
+  "quarterlyDividend": 5.45,
+  "baseRateOfReturn": 3.1,
+  "betaMeasure": 0.68,
+  "stockSymbol": "KO",
+  "sharePrice": 41.08
+}}
+{"StockAccount": {
+  "code": "No1BURR",
+  "label": "Chipotle Mexican Grill",
+  "quarterlyDividend": 45.57,
+  "baseRateOfReturn": 3.19,
+  "betaMeasure": 0.94,
+  "stockSymbol": "CMG",
+  "sharePrice": 341.91
+}}
+{"StockAccount": {
+  "code": "B0oWM",
+  "label": "Costco",
+  "quarterlyDividend": 10.0,
+  "baseRateOfReturn": 2.25,
+  "betaMeasure": 0.82,
+  "stockSymbol": "COST",
+  "sharePrice": 106.13
+}}
+{"StockAccount": {
+  "code": "N0TPIX",
+  "label": "3D Systems",
+  "quarterlyDividend": 0.0,
+  "baseRateOfReturn": 1.25,
+  "betaMeasure": 1.28,
+  "stockSymbol": "DDD",
+  "sharePrice": 35.4
+}}
+{"StockAccount": {
+  "code": "wOOWoo1S",
+  "label": "Canadian National Railway",
+  "quarterlyDividend": 2.75,
+  "baseRateOfReturn": 4.6,
+  "betaMeasure": 0.79,
+  "stockSymbol": "CNI",
+  "sharePrice": 97.75
+}}
+{"StockAccount": {
+  "code": "BERK-B",
+  "label": "Berkshire Hathaway",
+  "quarterlyDividend": 0.0,
+  "baseRateOfReturn": 7.2,
+  "betaMeasure": 0.29,
+  "stockSymbol": "BRK-B",
+  "sharePrice": 107.04
+}}
+{"PrivateInvestmentAccount": {
+  "code": "RENT445",
+  "label": "Rental Property",
+  "quarterlyDividend": 2400.0,
+  "baseRateOfReturn": 0.25,
+  "omegaMeasure": 0.15,
+  "totalValue": 120000.0
+}}
+{"PrivateInvestmentAccount": {
+  "code": "CMPROP0121",
+  "label": "Commercial Property-Red Oaks Mall",
+  "quarterlyDividend": 14240.0,
+  "baseRateOfReturn": 5.35,
+  "omegaMeasure": 0.25,
+  "totalValue": 1.0456E7
+}}
+{"PrivateInvestmentAccount": {
+  "code": "FOOD12",
+  "label": "Cluckin's restaurant chain",
+  "quarterlyDividend": 35000.0,
+  "baseRateOfReturn": 3.0,
+  "omegaMeasure": 0.32,
+  "totalValue": 1212500.0
+}}
+{"PrivateInvestmentAccount": {
+  "code": "REALStr12",
+  "label": "Fred's Fabulous Hardware Store",
+  "quarterlyDividend": 1232.0,
+  "baseRateOfReturn": 1.23,
+  "omegaMeasure": 0.13,
+  "totalValue": 54300.0
+}}
+{"PrivateInvestmentAccount": {
+  "code": "IND321",
+  "label": "Industrial Widget Manufacturers Inc.",
+  "quarterlyDividend": 10500.0,
+  "baseRateOfReturn": 2.0,
+  "omegaMeasure": -0.15,
+  "totalValue": 4213333.0
+}}
+{"PrivateInvestmentAccount": {
+  "code": "RSTOR322",
+  "label": "7\" Vinyl Records",
+  "quarterlyDividend": 2453.21,
+  "baseRateOfReturn": 2.1,
+  "omegaMeasure": 0.54,
+  "totalValue": 13500.0
+}}

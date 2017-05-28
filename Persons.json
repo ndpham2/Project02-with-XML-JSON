@@ -1,0 +1,273 @@
+{"Client": {
+  "id": "944c",
+  "firstName": " Starlin",
+  "lastName": "Castro",
+  "street": "1060 West Addison Street",
+  "city": "Chicago",
+  "state": "IL",
+  "zipCode": "60613",
+  "country": "USA",
+  "emailAddress": [
+    "scastro@cubs.com",
+    "starlin_castro13@gmail.com"
+  ]
+}}
+{"Client": {
+  "id": "306a",
+  "firstName": " Brock",
+  "lastName": "Sampson",
+  "street": "123 N 1st Street",
+  "city": "Omaha",
+  "state": "NE",
+  "zipCode": "68116",
+  "country": "USA",
+  "emailAddress": [
+    "brock_f_sampson@gmail.com",
+    "bsampson@venture.com"
+  ]
+}}
+{"Client": {
+  "id": "2342",
+  "firstName": " Miles",
+  "lastName": "O'Brien",
+  "street": "123 Friendly Street",
+  "city": "Ottawa",
+  "state": "ON",
+  "zipCode": "K1A 0G9",
+  "country": "Canada",
+  "emailAddress": [
+    "brock_f_sampson@gmail.com",
+    "bsampson@venture.com"
+  ]
+}}
+{"Broker": {
+  "id": "aef1",
+  "firstName": " Gordon",
+  "lastName": "Gekko",
+  "street": "1 Wall Street",
+  "city": "New York",
+  "state": "NY",
+  "zipCode": "10005-0012",
+  "country": "USA",
+  "emailAddress": [
+    "brock_f_sampson@gmail.com",
+    "bsampson@venture.com"
+  ],
+  "secID": "E,sec001"
+}}
+{"Broker": {
+  "id": "321f",
+  "firstName": " Bud",
+  "lastName": "Fox",
+  "street": "321 Bronx Street",
+  "city": "New York",
+  "state": "NY",
+  "zipCode": "10004",
+  "country": "USA",
+  "emailAddress": [
+    "bfox@gmail.com",
+    "csheen@crazy.net"
+  ],
+  "secID": "J,sec991"
+}}
+{"Client": {
+  "id": "ma12",
+  "firstName": " Dale",
+  "lastName": "Sveum",
+  "street": "1060 West Addison Street",
+  "city": "Chicago",
+  "state": "IL",
+  "zipCode": "60613",
+  "country": "USA",
+  "emailAddress": [
+    "sveum@cubs.com"
+  ]
+}}
+{"Client": {
+  "id": "321nd",
+  "firstName": " William",
+  "lastName": "Hartnell",
+  "street": "1060 West Addison Street",
+  "city": "Chicago",
+  "state": "IL",
+  "zipCode": "60613",
+  "country": "USA",
+  "emailAddress": [
+    "whartnell@doctors.com",
+    "dr@who.com"
+  ]
+}}
+{"Client": {
+  "id": "nf32a",
+  "firstName": " Patrick",
+  "lastName": "Troughton",
+  "street": "1060 West Addison Street",
+  "city": "Chicago",
+  "state": "IL",
+  "zipCode": "60613",
+  "country": "USA",
+  "emailAddress": [
+    "ptroug@cse.unl.edu",
+    "ptrou32@unl.edu"
+  ]
+}}
+{"Broker": {
+  "id": "321na",
+  "firstName": " Jon",
+  "lastName": "Pertwee",
+  "street": "301 Front St W",
+  "city": " Toronto",
+  "state": " ON",
+  "zipCode": " M5V 2T6",
+  "country": " Canada",
+  "emailAddress": [
+    "jpet@whofan.com"
+  ],
+  "secID": "E,sec125"
+}}
+{"Broker": {
+  "id": "231",
+  "firstName": "Tom",
+  "lastName": "Baker",
+  "street": "1 Blue Jays Way",
+  "city": " Toronto",
+  "state": " ON",
+  "zipCode": " M5V 1J1",
+  "country": " Canada",
+  "emailAddress": [
+    "famousdoc@who.com",
+    "tbaker@cse.unl.edu",
+    "mostfamous@whovian.com",
+    "thedoctor@bbc.com"
+  ],
+  "secID": "E,sec221"
+}}
+{"Broker": {
+  "id": "6doc",
+  "firstName": " Richard",
+  "lastName": "Hurndall",
+  "street": "Campos El290",
+  "city": "Mexico City",
+  "state": " FD",
+  "zipCode": " M5V 1J1",
+  "country": " Mexico",
+  "emailAddress": [
+    "rhurndall@cse.unl.edu",
+    "richard@unl.edu"
+  ],
+  "secID": "J,sec982"
+}}
+{"Broker": {
+  "id": "321dr",
+  "firstName": " C.",
+  "lastName": "Baker",
+  "street": "Avery Hall",
+  "city": "Lincoln",
+  "state": "NE",
+  "zipCode": "68503",
+  "country": "USA",
+  "emailAddress": [
+    "dr@baker.com"
+  ],
+  "secID": "J,sec543"
+}}
+{"Client": {
+  "id": "1svndr",
+  "firstName": "Sylvester",
+  "lastName": "McCoy",
+  "street": "126-01 Roosevelt Ave",
+  "city": " Flushing",
+  "state": " NY",
+  "zipCode": "11368",
+  "country": "USA",
+  "emailAddress": [
+    "slyguy@hotmail.com",
+    "mccoy@whofan.com"
+  ]
+}}
+{"Broker": {
+  "id": "123lst",
+  "firstName": " Paul",
+  "lastName": "McGann",
+  "street": "1 MetLife Stadium Dr",
+  "city": " East Rutherford",
+  "state": " NJ",
+  "zipCode": "07073",
+  "country": "USA",
+  "emailAddress": [
+    "pmcgann@mlb.com",
+    "foo@bar.com",
+    "pmc@unl.edu"
+  ],
+  "secID": "E,sec31x"
+}}
+{"Broker": {
+  "id": "nwdoc1",
+  "firstName": " Chris",
+  "lastName": "Eccleston",
+  "street": "1 E 161st St",
+  "city": " Bronx",
+  "state": " NY",
+  "zipCode": "10451",
+  "country": "USA",
+  "emailAddress": [
+    "newguy@whovian.com"
+  ],
+  "secID": "J,sec953"
+}}
+{"Client": {
+  "id": "2ndbestd",
+  "firstName": " David",
+  "lastName": "Tennant",
+  "street": "700 E Grand Ave",
+  "city": " Chicago",
+  "state": " IL",
+  "zipCode": " 60611",
+  "country": "USA",
+  "emailAddress": [
+    "actor@shakespeare.com",
+    "tdavid@unl.edu"
+  ]
+}}
+{"Client": {
+  "id": "wrddoc",
+  "firstName": " Matt",
+  "lastName": "Smith",
+  "street": "333 W 35th St",
+  "city": " Chicago",
+  "state": " IL",
+  "zipCode": "60616",
+  "country": "USA",
+  "emailAddress": [
+    "msmith@who.com",
+    "thedoc@cse.unl.edu"
+  ]
+}}
+{"Client": {
+  "id": "bbchar",
+  "firstName": " Kaylee",
+  "lastName": "Ehrmantraut",
+  "street": "800 West 7th Street",
+  "city": " Albuquerque",
+  "state": " NM",
+  "zipCode": " 87105",
+  "country": "USA",
+  "emailAddress": [
+    "msmith@who.com",
+    "thedoc@cse.unl.edu"
+  ]
+}}
+{"Client": {
+  "id": "doc05",
+  "firstName": " Peter",
+  "lastName": "Davison",
+  "street": "123 Cabo San Lucas",
+  "city": " Los Cabos",
+  "state": " BCS",
+  "zipCode": " ",
+  "country": " Mexico",
+  "emailAddress": [
+    "msmith@who.com",
+    "thedoc@cse.unl.edu"
+  ]
+}}
